@@ -25,7 +25,7 @@ This notebook performs an in-depth Exploratory Data Analysis (EDA) on the Titani
 -   Visualized missing data using a **heatmap**
 
 <p align="center">
-    <img src="images/missing_values_heatmap.png" alt="missing values heatmap" width="600/>
+    <img src="images/missing_values_heatmap.png" alt="missing values heatmap" width="600"/>
 </p>
 
 -   Missing values imputed using:
